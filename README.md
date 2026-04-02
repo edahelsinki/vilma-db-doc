@@ -243,6 +243,9 @@ The projection is a dictionary where the values are the names of the fields and 
 
 ### Example queries
 
+> [!TIP]
+> For more in-depth examples, take a look at the notebooks within the `examples` directory.
+
 1) The simplest query is the empty dictionary which will return all the documents within the collection:
 
 ```{python}
